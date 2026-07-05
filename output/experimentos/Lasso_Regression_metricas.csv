@@ -1,0 +1,2 @@
+Modelo,Mejor alpha,Features activas,Features eliminadas,CV R² media,CV R² std,CV RMSE media,CV RMSE std,Test R²,Test RMSE
+Lasso_Regression,0.01,13,4,0.6928,0.0066,2.5732,0.0691,0.7047,2.4211

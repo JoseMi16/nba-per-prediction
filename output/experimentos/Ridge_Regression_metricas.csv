@@ -1,0 +1,2 @@
+Modelo,Mejor alpha,CV R² media,CV R² std,CV RMSE media,CV RMSE std,Test R²,Test RMSE
+Ridge_Regression,5.0,0.6926,0.0064,2.5745,0.0693,0.7063,2.4145

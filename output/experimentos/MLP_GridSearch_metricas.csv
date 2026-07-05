@@ -1,0 +1,2 @@
+Modelo,Mejor arquitectura,Mejor alpha,Mejor learning_rate,CV R² (GridSearch),Test R²,Test RMSE
+MLP_GridSearch,"(64, 32)",0.0001,0.001,0.6905,0.7047,2.421

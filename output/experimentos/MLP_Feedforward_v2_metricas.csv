@@ -1,0 +1,3 @@
+Variante,Test R²,Test RMSE,Arquitectura,Alpha,CV R² media,CV R² std
+"MLP original (adam, early_stopping)",0.7047,2.421,,,,
+"MLP mejorado (lbfgs, MinMaxScaler, ensemble x10)",0.7141,2.3821,"(32,)",1.0,0.6929,0.0066

@@ -1,0 +1,5 @@
+Modelo,Test R² (sin temporales),Test R² (con temporales),Mejora R²,Test RMSE (con temporales),CV R² (con temporales)
+Regresion_Lineal,0.7062,0.7158,0.0096,2.3751,0.7007
+Ridge,0.7063,0.7159,0.0096,2.3744,0.7011
+Lasso,0.7047,0.7155,0.0108,2.3762,0.7013
+MLP,0.7047,0.6881,-0.0166,2.488,0.68
